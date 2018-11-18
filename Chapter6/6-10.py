@@ -1,3 +1,4 @@
+#최대최소값 구하기
 def max_min(ntuple):
     maxs=0
     for a in ntuple:
