@@ -1,3 +1,5 @@
+#할인가격 계산하기
+
 price=float(input("상품가격(만원):"))
 
 if price >=10:
