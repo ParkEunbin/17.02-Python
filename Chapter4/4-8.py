@@ -1,4 +1,4 @@
-
+#표 출력하기
 checklist=[]
 
 for a in range(3):
