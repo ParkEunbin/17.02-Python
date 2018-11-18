@@ -1,3 +1,5 @@
+#비행코드,경로출력
+
 code=input("비행코드:")
 code=code.upper()
 
