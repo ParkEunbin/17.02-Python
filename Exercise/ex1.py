@@ -1,3 +1,4 @@
+#최댓값 출력
 a=[]
 for i in range(1,6):
     b=input()
