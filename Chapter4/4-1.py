@@ -1,3 +1,4 @@
+#평균점수 출력
 student=[]
 total=0
 
