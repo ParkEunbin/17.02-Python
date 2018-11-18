@@ -1,3 +1,4 @@
+#과일 가격계산
 fruit={"apple":1500,"banana":1300,"melon":2000}
 for a,b in fruit.items():
     print(a,b)
