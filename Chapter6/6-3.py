@@ -1,3 +1,4 @@
+#문자열 찾기
 def a(m,s):
     count=0
     for b in m:
