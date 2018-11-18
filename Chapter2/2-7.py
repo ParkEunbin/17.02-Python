@@ -1,3 +1,5 @@
+#학점계산기
+
 score=int(input("점수:"))
 
 if 90<=score<=100:
