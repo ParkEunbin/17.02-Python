@@ -1,3 +1,5 @@
+#가구수 세기
+
 def com_apart(apart):
     floor_person={}
     for key, floor in enumerate(apart):
