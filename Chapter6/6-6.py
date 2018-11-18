@@ -1,3 +1,5 @@
+#잔액출력
+
 def ins(one):
     global won
     won+=one
