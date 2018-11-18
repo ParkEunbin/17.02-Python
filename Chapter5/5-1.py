@@ -1,3 +1,4 @@
+#리스트 원소로서의 사전사용
 person=[]
 
 for a in range(2):
