@@ -1,3 +1,5 @@
+#시험점수출력하기
+
 score=int(input("시험점수:"))
 dec=score<=50 or score>=90 and score<=100
 print (dec)
