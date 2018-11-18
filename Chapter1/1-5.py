@@ -1,3 +1,5 @@
+#논리연산자 사용
+
 a=95;b=85
 decision=a>=90 and b>=90
 print(decision)
