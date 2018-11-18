@@ -1,3 +1,5 @@
+#국가이름저장
+
 nation=[]
 
 while True:
