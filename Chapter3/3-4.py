@@ -1,3 +1,5 @@
+#중간글자 출력
+
 word=input("문자열 입력:")
 lenth=len(word)
 
