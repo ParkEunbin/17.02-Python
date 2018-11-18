@@ -1,3 +1,5 @@
+#논리연산자 사용
+
 a=5
 num=a>5 and 100 or 200
 print(num)
