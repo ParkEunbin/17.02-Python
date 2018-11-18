@@ -1,3 +1,4 @@
+#합격불합격 판정
 checklist=[]
 name=input("선수입력:")
 checklist.append(name)
