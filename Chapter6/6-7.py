@@ -1,3 +1,4 @@
+#최댓값출력
 def maxs(numlist):
     maxi=0
     for count in numlist:
