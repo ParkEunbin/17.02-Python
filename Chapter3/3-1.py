@@ -1,3 +1,5 @@
+#문자,숫자,그외 개수 세기
+
 message=input("문자열을 입력:")
 nchar=0
 ndigit=0
