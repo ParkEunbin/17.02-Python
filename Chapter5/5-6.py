@@ -1,3 +1,4 @@
+#국가코드 검색
 nation_code={1:"US",33:"France",44:"Japan"}
 
 print("국가번호:",nation_code)
