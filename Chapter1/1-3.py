@@ -1,3 +1,5 @@
+#동전 교환하기
+
 money=int(input("교환할 금액 입력:"))
 m500=money//500
 money%=500
