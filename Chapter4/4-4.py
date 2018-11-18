@@ -1,3 +1,4 @@
+#이름리스트작성
 names=[]
 name_str=input("5명이름을 차례로 입력:")
 names=name_str.split()
