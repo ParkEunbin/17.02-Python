@@ -1,3 +1,4 @@
+#다이아몬드모양 별찍기
 width= int(input("다이아몬드 폭입력(홀수):"))
 star="*"
 loop=width-(width//2)
