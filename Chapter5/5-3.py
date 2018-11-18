@@ -1,3 +1,5 @@
+#과일가격
+
 fruit={}
 
 for count in range(3):
