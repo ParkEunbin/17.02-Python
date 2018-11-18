@@ -1,3 +1,5 @@
+#체형판단기
+
 kg=float(input("몸무게(kg):"))
 m=float(input("키(m):"))
 bmi=kg/m**2
