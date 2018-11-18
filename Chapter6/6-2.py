@@ -1,3 +1,4 @@
+#최댓값 출력
 def get_max(n1,n2,n3):
     if n1<n2:
         maxs=n2
