@@ -1,3 +1,5 @@
+#평균점수 구하기
+
 total=0
 for score in[100,98,85,97,74]:
     total+=score
