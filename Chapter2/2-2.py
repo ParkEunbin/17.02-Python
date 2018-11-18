@@ -1,3 +1,5 @@
+#합격 판단
+
 score=int(input("점수입력:"))
 if score>=80:
     print("합격")
