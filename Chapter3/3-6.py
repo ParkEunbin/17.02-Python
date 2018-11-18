@@ -1,3 +1,5 @@
+#개인정보입력
+
 import sys
 idnumber=input("주민번호 -없이 입력:")
 
