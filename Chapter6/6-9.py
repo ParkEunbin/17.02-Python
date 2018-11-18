@@ -1,4 +1,4 @@
-
+#해당원소 위치 찾기
 def search(numlist,find):
     for a in range(len(numlist)):
         if numlist[a]==find:
