@@ -1,3 +1,4 @@
+#회원가입기
 def check_id(message):
     while True:
         nid=input("아이디입력:")
