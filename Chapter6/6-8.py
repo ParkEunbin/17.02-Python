@@ -1,3 +1,4 @@
+#평균구하기
 def aver(stuple):
     total=0
     for a in stuple:
